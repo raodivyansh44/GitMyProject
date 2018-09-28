@@ -1,0 +1,3 @@
+undoing in git
+git revert
+git reset
